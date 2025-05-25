@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="500feeb0-fcc1-41b0-a653-3b782954f2ab" name="更改" comment="删除了一些冗余代码">
-      <change afterPath="$PROJECT_DIR$/Manage_supervision/frontend/src/assets/98548cf330a3f43a051819b2d15beaf4.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manage_supervision/frontend/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manage_supervision/frontend/src/views/student/TaskList.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manage_supervision/frontend/src/views/student/TaskView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manage_supervision/frontend/src/views/supervisor/CreateExam.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manage_supervision/frontend/src/views/supervisor/Profile.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manage_supervision/frontend/src/views/supervisor/StudentManagement.vue" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +40,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2xM469K3b6fRGXQD3xJ1qO0V75a" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -77,7 +73,12 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Spring Boot.AuthApplication">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\JavaWeb-onlineShoppingWeb\Manage_supervision\frontend\src\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
     <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="auth-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.auth.AuthApplication" />
@@ -103,8 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.AuthApplication" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="Spring Boot.AuthApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +127,7 @@
       <workItem from="1747734433397" duration="2599000" />
       <workItem from="1748005511918" duration="11000" />
       <workItem from="1748164450780" duration="4547000" />
-      <workItem from="1748169436328" duration="1856000" />
+      <workItem from="1748169436328" duration="2161000" />
     </task>
     <task id="LOCAL-00001" summary="删除了一些冗余代码">
       <option name="closed" value="true" />
@@ -136,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748169319763</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="删除了一些冗余代码">
+      <option name="closed" value="true" />
+      <created>1748171523798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748171523798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
