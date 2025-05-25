@@ -1,6 +1,5 @@
 package com.example.auth.service.impl;
 
-import com.example.auth.model.dto.ActivityDTO;
 import com.example.auth.model.dto.UserDTO;
 import com.example.auth.model.dto.UserDetailDTO;
 import com.example.auth.model.entity.Role;
@@ -293,14 +292,14 @@ public class UserServiceImpl implements UserService {
                 adminUserIds.addAll(userMapper.findByRoleId(adminRole.getId())
                         .stream()
                         .map(User::getId)
-                        .collect(Collectors.toList()));
+                        .toList());
             }
             
             if (merchantRole != null) {
                 merchantUserIds.addAll(userMapper.findByRoleId(merchantRole.getId())
                         .stream()
                         .map(User::getId)
-                        .collect(Collectors.toList()));
+                        .toList());
             }
             
             return users.stream()

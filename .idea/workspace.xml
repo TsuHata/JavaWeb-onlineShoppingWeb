@@ -4,15 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500feeb0-fcc1-41b0-a653-3b782954f2ab" name="更改" comment="" />
+    <list default="true" id="500feeb0-fcc1-41b0-a653-3b782954f2ab" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/ActivityDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/CategoryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/CategoryDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/ChatMessageDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/ChatMessageDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/ConversationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/ConversationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/CourseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/CreateOrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/CreateOrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/OrderDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/OrderDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/OrderItemDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/OrderItemDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/PaymentDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/PaymentDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/PaymentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/PaymentRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/ProductAuditDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/ProductAuditDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/ProductDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/RefundRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/RefundRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/StudentDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/StudentDetailDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/StudentProjectProgressDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/SupervisorDashboardDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/UserAssignmentDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/model/dto/UserAssignmentDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/service/impl/UserServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TsuHata"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TsuHata/JavaWeb-onlineShoppingWeb.git",
+    "accountId": "59b65fc6-281f-48f2-be0d-99da73585273"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -39,6 +79,11 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "ts.external.directory.path": "C:\\Users\\Lenovo\\IdeaProjects\\JavaWeb-onlineShoppingWeb\\Manage_supervision\\frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 方言": [
+      "MySQL"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected="Spring Boot.AuthApplication">
@@ -89,7 +134,7 @@
       <updated>1747734431878</updated>
       <workItem from="1747734433397" duration="2599000" />
       <workItem from="1748005511918" duration="11000" />
-      <workItem from="1748164450780" duration="38000" />
+      <workItem from="1748164450780" duration="4004000" />
     </task>
     <servers />
   </component>
