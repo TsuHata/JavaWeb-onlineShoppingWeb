@@ -1050,7 +1050,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <AutoIntrospectionLevel>3</AutoIntrospectionLevel>
       <Current>1</Current>
       <LastIntrospectionLevel>3</LastIntrospectionLevel>
-      <LastIntrospectionLocalTimestamp>2025-05-20.09:47:42</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2025-05-26.10:12:29</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <user id="296" parent="1" name="TsuHata">
@@ -1178,7 +1178,7 @@ DYNAMIC</Options>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
     <column id="315" parent="301" name="id">
-      <AutoIncrement>23</AutoIncrement>
+      <AutoIncrement>22</AutoIncrement>
       <Comment>售后ID</Comment>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -1276,7 +1276,7 @@ DYNAMIC</Options>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="332" parent="302" name="id">
-      <AutoIncrement>31</AutoIncrement>
+      <AutoIncrement>32</AutoIncrement>
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>bigint|0s</StoredType>
@@ -1409,7 +1409,7 @@ DYNAMIC</Options>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="359" parent="304" name="id">
-      <AutoIncrement>2</AutoIncrement>
+      <AutoIncrement>4</AutoIncrement>
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>bigint|0s</StoredType>
@@ -1995,7 +1995,7 @@ user_id</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="475" parent="311" name="id">
-      <AutoIncrement>4</AutoIncrement>
+      <AutoIncrement>3</AutoIncrement>
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>bigint|0s</StoredType>
@@ -2144,7 +2144,7 @@ role_id</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="503" parent="314" name="id">
-      <AutoIncrement>6</AutoIncrement>
+      <AutoIncrement>9</AutoIncrement>
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>bigint|0s</StoredType>
