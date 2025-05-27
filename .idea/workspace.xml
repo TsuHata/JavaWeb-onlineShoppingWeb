@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500feeb0-fcc1-41b0-a653-3b782954f2ab" name="更改" comment="删除了一些冗余代码">
+    <list default="true" id="500feeb0-fcc1-41b0-a653-3b782954f2ab" name="更改" comment="修改了一些文本描述，并且完成了程序文档">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ea33781b-6607-453c-bd65-7c095a4aff00.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ea33781b-6607-453c-bd65-7c095a4aff00.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manage_supervision/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/service/impl/ChatServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manage_supervision/backend/src/main/java/com/example/auth/service/impl/ChatServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;Spring Boot.AuthApplication.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/JavaWeb-onlineShoppingWeb/Manage_supervision/frontend/src/assets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/JavaWeb-onlineShoppingWeb&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
@@ -80,6 +77,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\JavaWeb-onlineShoppingWeb" />
       <recent name="C:\Users\Lenovo\IdeaProjects\JavaWeb-onlineShoppingWeb\Manage_supervision\frontend\src\assets" />
     </key>
   </component>
@@ -133,7 +131,9 @@
       <workItem from="1748005511918" duration="11000" />
       <workItem from="1748164450780" duration="4547000" />
       <workItem from="1748169436328" duration="5000000" />
-      <workItem from="1748245339167" duration="2986000" />
+      <workItem from="1748245339167" duration="4978000" />
+      <workItem from="1748309889301" duration="2000" />
+      <workItem from="1748311821031" duration="2051000" />
     </task>
     <task id="LOCAL-00001" summary="删除了一些冗余代码">
       <option name="closed" value="true" />
@@ -159,7 +159,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748171905308</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修改了一些文本描述，并且完成了程序文档">
+      <option name="closed" value="true" />
+      <created>1748258356579</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748258356579</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改了一些文本描述，并且完成了程序文档">
+      <option name="closed" value="true" />
+      <created>1748258378333</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748258378333</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +209,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="删除了一些冗余代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除了一些冗余代码" />
+    <MESSAGE value="修改了一些文本描述，并且完成了程序文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了一些文本描述，并且完成了程序文档" />
   </component>
 </project>

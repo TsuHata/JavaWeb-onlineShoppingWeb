@@ -11,6 +11,7 @@ import com.example.auth.mapper.ChatMessageMapper;
 import com.example.auth.mapper.ConversationMapper;
 import com.example.auth.mapper.UserMapper;
 import com.example.auth.service.ChatService;
+import lombok.Data;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -372,7 +373,8 @@ public class ChatServiceImpl implements ChatService {
             e.printStackTrace();
         }
     }
-    
+
+    @Data
     static class UserDTO {
         private Long id;
         private String username;
@@ -385,11 +387,6 @@ public class ChatServiceImpl implements ChatService {
             this.realName = user.getRealName();
             this.avatar = user.getAvatar();
         }
-        
-        // Getters
-        public Long getId() { return id; }
-        public String getUsername() { return username; }
-        public String getRealName() { return realName; }
-        public String getAvatar() { return avatar; }
+
     }
 } 
